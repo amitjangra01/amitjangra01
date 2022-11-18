@@ -10,7 +10,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+
 
 
 - 👋 Hi, I’m @amitjangra01
@@ -25,4 +25,5 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amitjangra01)
 ![counter](https://en9n8xkcc2t8lmc.m.pipedream.net)
+</div>
 </div>
