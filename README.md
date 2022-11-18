@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1> 
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 - 👋 Hi, I’m @amitjangra01
 - 👀 I’m interested in just flutter.
 - 🌱 I’m currently learning app development with dart and flutter.
@@ -18,6 +18,8 @@
 amitjangra01/amitjangra01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div class="column" align="center">
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amitjangra01&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -26,4 +28,5 @@ You can click the Preview link to take a look at your changes.
 
 ![counter](https://en9n8xkcc2t8lmc.m.pipedream.net)
 
+</div>
 </div>
