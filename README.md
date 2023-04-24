@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitjangra01" alt="amitjangra01" /></a> </p>
 
-- 🔭 I’m currently working on **hotel app**
+- 🔭 I’m currently working on **ecommerce app**
 
 - 🌱 I’m currently learning **app development with dart and flutter.**
 
