@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **ecommerce app**
 
-- 🌱 I’m currently learning **app development using Angular.**
+- 🌱 I’m currently learning **web development using Angular.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitjangra01](https://github.com/amitjangra01)
 
