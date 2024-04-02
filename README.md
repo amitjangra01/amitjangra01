@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
   <div id="badges">
  <h1>
   Hi
@@ -12,7 +13,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amitjangra01&label=Profile%20views&color=0e75b6&style=flat" alt="amitjangra01" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitjangra01" alt="amitjangra01" /></a> </p>
-
+<div align="start">
+  
 - 🔭 I’m currently working on **ecommerce app**
 
 - 🌱 I’m currently learning **web development using Angular.**
@@ -23,6 +25,7 @@
 
 - 📫 How to reach me **#socials**
 
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/mastii_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mastii_official" height="30" width="40" /></a>
