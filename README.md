@@ -17,7 +17,7 @@
   
 - 🔭 I’m currently working on a **booking app**
 
-- 🌱 I’m currently learning **web development using Angular.**
+- 🌱 I’m currently learning **development using erpnext.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/amitjangra01](https://github.com/amitjangra01)
 
