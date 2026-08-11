@@ -15,7 +15,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitjangra01" alt="amitjangra01" /></a> </p>
 <div align="start">
   
-- 🔭 I’m currently working on a **messaging service platform**
+- 🔭 I’m currently working on a **Library management platform**
 
 - 🌱 I’m currently learning **development using erpnext and next.js**
 
