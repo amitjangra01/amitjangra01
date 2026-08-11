@@ -17,8 +17,6 @@
   
 - 🔭 I’m currently working on a **Library management platform**
 
-- 🌱 I’m currently learning **development using erpnext and next.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/amitjangra01](https://github.com/amitjangra01)
 
 - 💬 Ask me about **dart and flutter.**
